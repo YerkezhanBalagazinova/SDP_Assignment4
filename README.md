@@ -1,10 +1,8 @@
 # SDP_Assignment4
-# Assignment 4 – Facade Pattern
+# Facade Pattern
 
 **Student:** Yerkezhan Balagazinova  
-**Group:** SE-2527  
 **Topic:** Option B – Online Order Processing  
-**Language:** Java 17  
 
 ## About
 
